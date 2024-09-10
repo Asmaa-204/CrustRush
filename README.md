@@ -20,7 +20,7 @@
 
 ## Demo
 
-**[try it now!](https://crust-rush.netlify.app/order/new)**
+**[try it now!](https://crust-rush.netlify.app)**
 
  <p align="center">
    <img width="500" src="./readmeImgs/menu.png"/>
