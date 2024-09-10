@@ -20,16 +20,17 @@
 
 ## Demo
 
-[Link to live demo]
+**[try it now!](https://crust-rush.netlify.app/order/new)**
 
-## Screenshots
-
-1. **Pizza Menu**
+ <p align="center">
    <img width="500" src="./readmeImgs/menu.png"/>
-2. **Cart**
+ <p>
+<p align="center">
    <img width="500" src="./readmeImgs/cart.png"/>
-3. **Order Tracking**
+</p>
+<p align="center">
    <img width="500" src="./readmeImgs/orderTracking.png"/>
+</p>
 
 ## How to run locally
 
