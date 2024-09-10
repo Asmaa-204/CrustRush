@@ -25,11 +25,11 @@
 ## Screenshots
 
 1. **Pizza Menu**
-<img width="300" src="./readmeImgs/menu.png"/>
-<!-- 2. **Cart**
-   <img width="300" src="./readmeImgs/cart.png"/> -->
-2. **Order Tracking**
-   <img width="300" src="./readmeImgs/orderTracking.png"/>
+   <img width="500" src="./readmeImgs/menu.png"/>
+2. **Cart**
+   <img width="500" src="./readmeImgs/cart.png"/>
+3. **Order Tracking**
+   <img width="500" src="./readmeImgs/orderTracking.png"/>
 
 ## How to run locally
 
@@ -40,7 +40,4 @@
 
 ## Technologies Used
 
-<img src="https://img.icons8.com/color/50/000000/react-native.png"/> 
-<img src="https://img.icons8.com/color/50/000000/javascript.png"/> 
-<img src="https://img.icons8.com/?size=50&id=4PiNHtUJVbLs&format=png&color=000000"/>
-<img src="https://img.icons8.com/color/50/000000/redux.png"/>
+<img src="https://img.icons8.com/color/60/000000/react-native.png"/> <img src="https://img.icons8.com/color/60/000000/javascript.png"/> <img src="https://img.icons8.com/?size=60&id=4PiNHtUJVbLs&format=png&color=000000"/> <img src="https://img.icons8.com/color/60/000000/redux.png"/>
